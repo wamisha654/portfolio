@@ -42,10 +42,7 @@ const About = () =>{
            	  <div>
            	    <h1>Online Shopping</h1>
            	  	<p>E-commerce web application designed to facilitate online trading for users. While still a work in progress, this project showcases my skills in front-end development and my commitment to creating user-friendly experiences in the digital realm.</p>
-           	    <div className = "loading"><TbProgress /><p className = "loading-font">Loading</p></div>
-           	    <div className = "icons">
-           	  	<FaReact /> <BsFiletypeScss /><GrHeroku />
-           	  </div>
+           	    <div className = "loading"><p className = "loading-font">Loading</p></div>
            	  </div>
            	 	
            	 </div>
@@ -59,9 +56,7 @@ const About = () =>{
            	    		<button className= "my-butt proj-but">Live Demo</button>
            	    	</a>
            	    </div> 
-           	    <div className = "icons">
-           	  	<FaReact /> <BsFiletypeScss /><FaNodeJs /><GrHeroku />
-           	  </div>
+           	    
            	  </div>
            	  
            	 	
@@ -76,9 +71,6 @@ const About = () =>{
            	    		<button className= "my-butt proj-but">Live Demo</button>
            	    	</a>
            	    </div>
-           	    <div className = "icons">
-           	  	 <FaHtml5 /><IoLogoCss3 /><SiJavascript />
-           	  </div>
            	  </div>
 
            	 	
