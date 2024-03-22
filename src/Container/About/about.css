@@ -139,18 +139,21 @@
   font-variation-settings:
     "wdth" 100
 }
-.loading p{
+.loading{
   
   
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 37px;
   color: indianred;
   margin-top: 20px;
   margin-bottom: -12px;
 
 }
-
+.loading-font{
+  color: indianred;
+}
 
 @media screen and (max-width: 1110px){
   .project-file{
